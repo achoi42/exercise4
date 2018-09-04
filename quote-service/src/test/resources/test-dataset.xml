@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+  <quote_record id="1" symbol="1" price="100" volume="1000" date="2018-01-01 04:30:00" />
+  <quote_record id="2" symbol="1" price="106" volume="1060" date="2018-01-01 04:35:00" />
+  <quote_record id="3" symbol="1" price="103" volume="1030" date="2018-01-01 05:30:00" />
+  <quote_record id="10" symbol="1" price="99" volume="990" date="2018-01-02 05:31:00" />
+  <quote_record id="11" symbol="1" price="107" volume="1070" date="2018-01-02 05:32:00" />
+  <quote_record id="4" symbol="2" price="200" volume="2000" date="2018-01-01 04:30:00" />
+  <quote_record id="5" symbol="2" price="206" volume="2060" date="2018-01-01 04:35:00" />
+  <quote_record id="6" symbol="2" price="203" volume="2030" date="2018-01-01 05:30:00" />
+  <quote_record id="7" symbol="3" price="300" volume="3000" date="2018-01-01 04:30:00" />
+  <quote_record id="8" symbol="3" price="306" volume="3060" date="2018-01-01 04:35:00" />
+  <quote_record id="9" symbol="3" price="303" volume="3030" date="2018-01-01 05:30:00" />
+</dataset>
